@@ -32,16 +32,14 @@ These techniques were implemented to artificially increase the size of the train
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flower-classification-cnn.git
+   https://github.com/rishurnjan/flower_calssification_CV.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flower-classification-cnn
+   cd flower-classification-CV
    ```
 3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
    Ensure you have Python, TensorFlow, Pandas, and other dependencies installed.
 
 4. Download and prepare the dataset:
